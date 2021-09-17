@@ -22,27 +22,16 @@ public class AddressBook {
     public static void main(String[] args) {
 
         System.out.println("Address Book");
-        /*
-        BuddyInfo buddy1 = new BuddyInfo("Homer", "742 Evergreen Terrace", "555-8707");
 
-        BuddyInfo buddy2 = new BuddyInfo("bruh", "1738", "123-4567");
+        BuddyInfo buddy1 = new BuddyInfo("Homer", "742 Evergreen Terrace", "555-8707");
 
         AddressBook address = new AddressBook();
 
         address.addBuddy(buddy1);
 
-        System.out.println(buddy1.toString());
-
-        address.addBuddy(buddy2);
-
-        System.out.println(buddy2.toString());
-
         address.removeBuddy(buddy1);
 
-        String list = address.buddyList.toString();
 
-        System.out.println(list);
-        */
     }
 
 
