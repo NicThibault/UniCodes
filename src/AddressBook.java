@@ -25,6 +25,8 @@ public class AddressBook {
         
         //Second change (on github)
 
+        //branched change to merge into master
+
         BuddyInfo buddy1 = new BuddyInfo("Homer", "742 Evergreen Terrace", "555-8707");
 
         AddressBook address = new AddressBook();
