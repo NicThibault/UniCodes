@@ -22,6 +22,8 @@ public class AddressBook {
     public static void main(String[] args) {
 
         //Change to test github
+        
+        //Second change (on github)
 
         BuddyInfo buddy1 = new BuddyInfo("Homer", "742 Evergreen Terrace", "555-8707");
 
